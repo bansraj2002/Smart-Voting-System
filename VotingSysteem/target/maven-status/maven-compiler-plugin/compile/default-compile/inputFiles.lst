@@ -1,0 +1,12 @@
+/home/bansraj/Bansraj Java/VotingSysteem/src/main/java/entities/Admin.java
+/home/bansraj/Bansraj Java/VotingSysteem/src/main/java/entities/Vote.java
+/home/bansraj/Bansraj Java/VotingSysteem/src/main/java/entities/VoterList.java
+/home/bansraj/Bansraj Java/VotingSysteem/src/main/java/com/mycompany/votingsysteem/resources/JakartaEE8Resource.java
+/home/bansraj/Bansraj Java/VotingSysteem/src/main/java/entities/VotingMachine.java
+/home/bansraj/Bansraj Java/VotingSysteem/src/main/java/entities/UserPermission.java
+/home/bansraj/Bansraj Java/VotingSysteem/src/main/java/entities/VoteCenter.java
+/home/bansraj/Bansraj Java/VotingSysteem/src/main/java/entities/Candidate.java
+/home/bansraj/Bansraj Java/VotingSysteem/src/main/java/entities/Role.java
+/home/bansraj/Bansraj Java/VotingSysteem/src/main/java/ejb/VotingBean.java
+/home/bansraj/Bansraj Java/VotingSysteem/src/main/java/ejb/VotingBeanLocal.java
+/home/bansraj/Bansraj Java/VotingSysteem/src/main/java/entities/Citizen.java

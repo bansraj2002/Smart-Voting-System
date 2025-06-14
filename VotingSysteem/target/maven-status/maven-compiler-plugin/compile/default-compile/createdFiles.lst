@@ -1,0 +1,12 @@
+ejb/VotingBean.class
+entities/VoterList.class
+entities/Vote.class
+entities/Candidate.class
+entities/UserPermission.class
+entities/VotingMachine.class
+entities/Role.class
+entities/Admin.class
+ejb/VotingBeanLocal.class
+entities/Citizen.class
+entities/VoteCenter.class
+com/mycompany/votingsysteem/resources/JakartaEE8Resource.class
